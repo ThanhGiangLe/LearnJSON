@@ -1,0 +1,10 @@
+D:\Tự học\JSON\Learn_JSON\Ex2\bin\Debug\Ex2.exe.config
+D:\Tự học\JSON\Learn_JSON\Ex2\bin\Debug\Ex2.exe
+D:\Tự học\JSON\Learn_JSON\Ex2\bin\Debug\Ex2.pdb
+D:\Tự học\JSON\Learn_JSON\Ex2\bin\Debug\Newtonsoft.Json.dll
+D:\Tự học\JSON\Learn_JSON\Ex2\bin\Debug\Newtonsoft.Json.xml
+D:\Tự học\JSON\Learn_JSON\Ex2\obj\Debug\Ex2.csproj.AssemblyReference.cache
+D:\Tự học\JSON\Learn_JSON\Ex2\obj\Debug\Ex2.csproj.CoreCompileInputs.cache
+D:\Tự học\JSON\Learn_JSON\Ex2\obj\Debug\Ex2.csproj.CopyComplete
+D:\Tự học\JSON\Learn_JSON\Ex2\obj\Debug\Ex2.exe
+D:\Tự học\JSON\Learn_JSON\Ex2\obj\Debug\Ex2.pdb
